@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "marketplace-310512",
+    "private_key_id": "9203dca703b80cd2d8c4c366fd23bbe1bc113d7b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAHp8tegXQfUKO\nW3fumPkLmwDTjTtPYIGVFPIo3kq5Lp70umwbHthCvNn6OT9rAR7xrHmxUy4HDk0C\nTtDK09q9SBXbDiFJeX6TAgEq3xa/BycvHzi8mwlz3rXIqMyJ4DFCKumDrvQ+kyP9\nodCxMwsj8ChEsxJjmeQyv8D+UD2qnrDnLkphHW2tsePawXR9heDIwvXIqATBccbh\nBY2ZwgO0V0acrGp+/0NV+Cp/236LYDj0upOBEeBUvhRUlO+iJow5Cii52pKh3ofE\nMetNCnrKWgviJo7Y0NrWbXEPNDbT654ZPfshMxpyOMR0H2aJ198N2Y2WZIn9o5Za\nLo0jbLNhAgMBAAECggEAESPqQa1sTWCPipHgjln5hi6LEVS9YOSUSw+2Vy0V75WY\nOu9S68yBsNqWe/uVi99qulcP+GEabyi4eCc9+4qRLmf7AzMshxie0VDRd9i1d8+U\nkGCxuCoA2uSYxVFCBl8JJgUcFlKKmfaYtG02aEjMiqVHgnGTh21Ybaqr9kSEa+9a\n7IjkVb191Wdo3yBIE2gR6QnPtHXB9um37OI6CTlOJ/HIo0KSpP1dbov+/lsveVfM\nPnUSPiumfLk3w09m+O5dY8nzfMxoLRuOdBfzR6Ox/CGRFmUsx650Yq6BR8gC3FTI\n4Oaz5M+M8xTyQ0ZpVXPFc2fSMX2+G/GtqBlcZR/DzQKBgQDo4CVnu5bxA0IxlqUx\nUwZtAUbvMSYvoWhU9GdyhVAyKEGh5R6urBLo1xbumc4y3gH5nAQh4jmrfVzaOQA6\n3ppFT72ldw0ySjraqf41SmylHLi4mgg4er8vGYziPqYicefrbKDokZDJF5W608Kb\nekdGgVGueaB6KEQR3MZwzzXzswKBgQDTMm6ONHwhCEC/rxwUEaqbytL9hE9U/H+1\n2W8WEaCmXbiI9OJ1TvXhOF7HxTTtQfTKvamsGqr+UKDSlM8k6/HtaW/r03djKmxP\nSliEKMCz12s+WuPV3sf7HFRHQq9Tom9Z+79+ugpbZX/oj3n4S3SfakfKY6dQVvsC\nSd+HiFpCmwKBgCQgec0Q7gavwbodq7zuK2YHt7BtyIXFHYFodQ/wHJPbaOsrt0nT\nyg8zJwyW8cU0acwGZyG2jcnL5fa4tw9q7zXne/1KbdKqb1zy2Ev+IsKupP2Gb9YL\nPNOavB9xJqbbUuZT8NaDlpmLvh/AsEUcgCgw8bIGjl3FF2JKBMMFclI/AoGBANIC\n1z7fYAO04jX6GhC21JFg6dghBoY7I3+gPL+UPczRa1v9L2d5YjVYSZ+bMZswOAyW\n9y7lwd1sLc/ZG/baDNOJQjseKBzbJaLfChA5Og5bixARb3fPtcq1i/TkkdW3s8Sl\n+vE4bG4gC0YlziKiXdDb7ZGK8OiJ5caL0RRD+YU7AoGBAOh1n99OCEShY3PN4crb\nIln8egTIP2pTmQ+8/yS9yQQCprKXcTjzGBE6GPvHdkF0M5iKeIiCa9eFyawZWabI\n9M6vWBbC0xlChzrvp+Ebyxzrp/HdogG3bLxxcsP+uxI6EZJbiBelr/ZelVTFDf/B\nCdLVMQcB8eVif+FEBJAGAC87\n-----END PRIVATE KEY-----\n",
+    "client_email": "mfaugeras-bucket@marketplace-310512.iam.gserviceaccount.com",
+    "client_id": "101313229495664319621",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfaugeras-bucket%40marketplace-310512.iam.gserviceaccount.com"
+  }
